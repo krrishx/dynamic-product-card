@@ -1,6 +1,6 @@
 # Dynamic Product Card Component
 
-A premium, industry-grade product card component built with **React.js** and **CSS**. This project demonstrates a responsive, interactive, and visually polished UI suitable for modern e-commerce platforms.
+A reusable and responsive Product Card component built with React.js and CSS for an e-commerce listing page.
 
 ## 🎥 Video Demo
 
@@ -13,12 +13,6 @@ Check out the functionality of the product card in this video demo:
 *   **Interactive Elements**:
     *   "Add to Cart" button with temporary success state and animation.
     *   Heart icon allowing users to toggle their "Favorite" status.
-    *   Smart discount badges that calculate percentage off automatically.
-*   **Premium UI Details**:
-    *   Glassmorphism effects on floating action buttons.
-    *   Modern **Inter** typography.
-    *   Realistic shadow handling and hover lift effects.
-*   **Localization**: Prices formatted in **Indian Rupees (₹)**.
 
 ## Getting Started
 
