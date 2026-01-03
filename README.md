@@ -18,18 +18,12 @@ Check out the functionality of the product card in this video demo:
 
 Follow these instructions to get the project up and running on your local machine.
 
-### Prerequisites
-
-Make sure you have the following installed on your laptop:
-*   **Node.js** (v14 or higher) - [Download here](https://nodejs.org/)
-*   **Git** - [Download here](https://git-scm.com/)
-
 ### 🛠️ Installation & Running
 
 1.  **Clone the Repository**
     Open your terminal or command prompt and run:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/dynamic-product-card.git
+    git clone https://github.com/krrishx/dynamic-product-card.git
     ```
 
 2.  **Navigate to the Project Directory**
@@ -50,21 +44,6 @@ Make sure you have the following installed on your laptop:
 
 5.  **View the App**
     Look for the "Local" URL in your terminal (usually `http://localhost:5173/`) and open it in your web browser.
-
-## 🏗️ Build for Production (Optional)
-
-If you want to see the optimized production build:
-
-```bash
-npm run build
-npm run preview
-```
-
-## 📂 Project Structure
-
-*   `src/components/ProductCard.jsx` - The main reusable component logic.
-*   `src/components/ProductCard.css` - Scoped, premium styling for the card.
-*   `src/App.jsx` - Demo page showcasing the grid layout.
 
 ---
 *Created for the TWWIOS assignment.*
