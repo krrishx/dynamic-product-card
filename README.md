@@ -2,7 +2,12 @@
 
 A premium, industry-grade product card component built with **React.js** and **CSS**. This project demonstrates a responsive, interactive, and visually polished UI suitable for modern e-commerce platforms.
 
-## Features
+## 🎥 Video Demo
+
+Check out the functionality of the product card in this video demo:
+[Watch Video Demo](https://drive.google.com/file/d/1jR_530oUkRva1GOETwjou41AS03HvkLx/view?usp=sharing)
+
+## ✨ Features
 
 *   **Responsive Design**: Seamlessly adapts from a fluid mobile layout to a fixed grid on desktop.
 *   **Interactive Elements**:
