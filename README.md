@@ -2,7 +2,7 @@
 
 A premium, industry-grade product card component built with **React.js** and **CSS**. This project demonstrates a responsive, interactive, and visually polished UI suitable for modern e-commerce platforms.
 
-## ✨ Features
+## Features
 
 *   **Responsive Design**: Seamlessly adapts from a fluid mobile layout to a fixed grid on desktop.
 *   **Interactive Elements**:
@@ -15,7 +15,7 @@ A premium, industry-grade product card component built with **React.js** and **C
     *   Realistic shadow handling and hover lift effects.
 *   **Localization**: Prices formatted in **Indian Rupees (₹)**.
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
 
