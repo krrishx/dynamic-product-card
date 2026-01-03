@@ -1,0 +1,73 @@
+/* Clean Modern Reset for the grid page */
+.app-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 80px 40px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 80px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header h1 {
+  font-size: 3.5rem;
+  color: #111;
+  margin-bottom: 16px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.header p {
+  color: #666;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+  justify-items: center;
+}
+
+/* Background refinement */
+body {
+  background-color: #fbfbfd;
+  /* Off-white premium bg */
+  color: #1d1d1f;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Mobile-only refinements */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 40px 20px;
+    /* Tighten container padding */
+  }
+
+  .header {
+    margin-bottom: 40px;
+    /* Reduce gap between header and grid */
+  }
+
+  .header h1 {
+    font-size: 2.25rem;
+    /* Smaller, more readable title */
+  }
+
+  .header p {
+    font-size: 1.125rem;
+    /* Slightly adjust subtitle */
+  }
+
+  .product-grid {
+    gap: 24px;
+    /* Tighter grid gap on mobile */
+  }
+}
