@@ -68,4 +68,4 @@ npm run preview
 *   `src/App.jsx` - Demo page showcasing the grid layout.
 
 ---
-*Created for the Coding Challenge.*
+*Created for the TWWIOS assignment.*
